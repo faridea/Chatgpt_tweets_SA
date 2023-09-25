@@ -1,1 +1,1 @@
-# Chatgpt_tweets_SA
+Sentiment analysis on tweets about ChatGPT
